@@ -49,5 +49,5 @@ O trabalho demonstra como a matemática pode ser utilizada para:
 - Apoio à tomada de decisão na construção civil
 
 # Autora
-projeto desenvolvido por Alessandra Aguiary
+projeto desenvolvido por Alessandra Aguiary 
   
